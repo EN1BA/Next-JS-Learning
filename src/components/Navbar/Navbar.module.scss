@@ -1,0 +1,19 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: cornsilk;
+    font-size: 40px;
+    position: sticky;
+    top:0;
+
+    a{
+        color:black;
+        text-decoration: none;
+        cursor:pointer;
+    }
+
+    a:hover{
+        color:brown;
+    }
+}
